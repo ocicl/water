@@ -1,0 +1,10 @@
+* water
+
+An ES6-compatible class definition for ParenScript
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/handicraftsman/water.git   |
+| commit  | 0d320a6  |
+| systems | water |
+|---------+-------------------------------------------|
+
